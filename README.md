@@ -1,6 +1,17 @@
 # Unsupervised Person ReID Paper
 This repo contains papers about Unsupervised Person ReID Papaers from recent top conferences and journals.
 
+## ICCV 2021
+- Zheng Y, Tang S, Teng G, et al. [Online Pseudo Label Generation by Hierarchical Cluster Dynamics for Adaptive Person Re-identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Online_Pseudo_Label_Generation_by_Hierarchical_Cluster_Dynamics_for_Adaptive_ICCV_2021_paper.pdf)
+
+- Isobe T, Li D, Tian L, et al. [Towards Discriminative Representation Learning for Unsupervised Person Re-identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Isobe_Towards_Discriminative_Representation_Learning_for_Unsupervised_Person_Re-Identification_ICCV_2021_paper.pdf)
+
+- Chen H, Lagadec B, Bremond F. [ICE: Inter-instance Contrastive Encoding for Unsupervised Person Re-identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ICE_Inter-Instance_Contrastive_Encoding_for_Unsupervised_Person_Re-Identification_ICCV_2021_paper.pdf)
+
+- Ji H, Wang L, Zhou S, et al. [Meta Pairwise Relationship Distillation for Unsupervised Person Re-identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Ji_Meta_Pairwise_Relationship_Distillation_for_Unsupervised_Person_Re-Identification_ICCV_2021_paper.pdf)
+
+- Dai Y, Liu J, Sun Y, et al. [IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID](https://openaccess.thecvf.com/content/ICCV2021/papers/Dai_IDM_An_Intermediate_Domain_Module_for_Domain_Adaptive_Person_Re-ID_ICCV_2021_paper.pdf)
+
 ## CVPR 2021
 - Bai Z, Wang Z, Wang J, et al. [Unsupervised Multi-Source Domain Adaptation for Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_Unsupervised_Multi-Source_Domain_Adaptation_for_Person_Re-Identification_CVPR_2021_paper.pdf)
 
@@ -14,13 +25,9 @@ This repo contains papers about Unsupervised Person ReID Papaers from recent top
 
 - Xuan S, Zhang S. [Intra-Inter Camera Similarity for Unsupervised Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2021/papers/Xuan_Intra-Inter_Camera_Similarity_for_Unsupervised_Person_Re-Identification_CVPR_2021_paper.pdf)
 
-## ICCV 2021
-- Zheng Y, Tang S, Teng G, et al. [Online Pseudo Label Generation by Hierarchical Cluster Dynamics for Adaptive Person Re-identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Online_Pseudo_Label_Generation_by_Hierarchical_Cluster_Dynamics_for_Adaptive_ICCV_2021_paper.pdf)
+## AAAI 2021
+- Wang M, Lai B, Huang J, et al. [Camera-Aware Proxies for Unsupervised Person Re-Identification](https://arxiv.org/pdf/2012.10674v2.pdf)
 
-- Isobe T, Li D, Tian L, et al. [Towards Discriminative Representation Learning for Unsupervised Person Re-identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Isobe_Towards_Discriminative_Representation_Learning_for_Unsupervised_Person_Re-Identification_ICCV_2021_paper.pdf)
+- Zheng K, Lan C, Zeng W, et al. [Exploiting Sample Uncertainty for Domain Adaptive Person Re-Identification](https://arxiv.org/pdf/2012.08733.pdf)
 
-- Chen H, Lagadec B, Bremond F. [ICE: Inter-instance Contrastive Encoding for Unsupervised Person Re-identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ICE_Inter-Instance_Contrastive_Encoding_for_Unsupervised_Person_Re-Identification_ICCV_2021_paper.pdf)
-
-- Ji H, Wang L, Zhou S, et al. [Meta Pairwise Relationship Distillation for Unsupervised Person Re-identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Ji_Meta_Pairwise_Relationship_Distillation_for_Unsupervised_Person_Re-Identification_ICCV_2021_paper.pdf)
-
-- Dai Y, Liu J, Sun Y, et al. [IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID](https://openaccess.thecvf.com/content/ICCV2021/papers/Dai_IDM_An_Intermediate_Domain_Module_for_Domain_Adaptive_Person_Re-ID_ICCV_2021_paper.pdf)
+- Zhang M, Liu K, Li Y, et al. [Unsupervised Domain Adaptation for Person Re-identification via Heterogeneous Graph Alignment](https://www.aaai.org/AAAI21Papers/AAAI-4639.ZhangM.pdf)
